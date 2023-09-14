@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "author_name": "Sarah Johnson",
+        "author_img": "https://example.com/sarah.jpg",
+        "title": "The Art of Writing",
+        "cover": "https://example.com/writing.jpg",
+        "post_date": "2023-09-13",
+        "post_time": 1631528400,
+        "hashtags": ["writing", "creativity", "blogging"]
+    },
+    {
+        "id": 2,
+        "author_name": "David Wilson",
+        "author_img": "https://example.com/david.jpg",
+        "title": "Adventures in Thailand",
+        "cover": "https://example.com/thailand.jpg",
+        "post_date": "2023-09-12",
+        "post_time": 1631442000,
+        "hashtags": ["travel", "adventure", "Thailand"]
+    },
+    {
+        "id": 3,
+        "author_name": "Tech News Today",
+        "author_img": "https://example.com/technews.jpg",
+        "title": "New Smartphone Release",
+        "cover": "https://example.com/smartphone.jpg",
+        "post_date": "2023-09-11",
+        "post_time": 1631355600,
+        "hashtags": ["tech", "smartphone", "news"]
+    },
+    {
+        "id": 4,
+        "author_name": "Chef Maria",
+        "author_img": "https://example.com/maria.jpg",
+        "title": "Homemade Pizza Recipe",
+        "cover": "https://example.com/pizza.jpg",
+        "post_date": "2023-09-10",
+        "post_time": 1631269200,
+        "hashtags": ["recipe", "cooking", "pizza"]
+    }
+]

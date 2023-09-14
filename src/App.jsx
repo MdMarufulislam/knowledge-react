@@ -1,11 +1,18 @@
 import './App.css'
+import Bookmarks from './components/Bookmarks/Bookmarks'
+import Blogs from './components/blogs/Blogs'
+import Header from './components/header/header'
 
 function App() {
 
 
   return (
     <>
-      <h1 className="text-3xl font-bold underline">Vite + React</h1>
+      <Header></Header>
+      <div className='md:flex'>
+      <Blogs></Blogs>
+      <Bookmarks></Bookmarks>
+      </div>
     </>
   )
 }
